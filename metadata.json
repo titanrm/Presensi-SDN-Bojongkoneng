@@ -1,0 +1,8 @@
+{
+  "name": "Presensi SD Negeri Bojongkoneng",
+  "description": "Aplikasi presensi online siswa dan guru SD Negeri Bojongkoneng dengan scan QR Code ID Card, integrasi Google Sheets, dan rekap bulanan PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
